@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    color: #282938;
+    background-color: #fff;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+[class*='__container'] {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px
+}
+
+:root[data-theme="light"] {
+  background-color: #ffffff;
+  color: #111;
+}
+
+:root[data-theme="dark"] {
+  background-color: #0b0f1a;
+  color: #fff;
+}
