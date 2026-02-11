@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import ThemeToggle from "../../ui/ThemeToggle/ThemeToggle";
+import logo from "../../../images/header/logo.svg";
 
 
 const MOBILE_BREAKPOINT = 992;
@@ -57,7 +58,7 @@ const Header = () => {
     <header className="header">
       <div className="header__container">
         <Link href="/" className="header__logo">
-          Your Name
+          <img src={logo.src} alt="Header logo" />
         </Link>
 
         <div
