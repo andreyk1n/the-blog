@@ -1,0 +1,45 @@
+@import "../../../styles/variables";
+
+.footer {
+    width: 100%;
+    padding: 30px 0;
+    background-color: var(--color-bg);
+
+    &__container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+
+    &__nav {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+
+    &__link {
+        color: var(--color-text);
+        font-size: clamp(16px, 2vw, 18px);
+        text-decoration: none;
+        position: relative;
+        display: inline-block;
+        transition: color 0.3s ease;
+
+        &::after {
+            content: '';
+            position: absolute;
+            inset-inline: 0;
+            bottom: 0;
+            height: 2px;
+            background: var(--color-text);
+            width: 0;
+            transition: width 0.4s ease;
+        }
+
+        &:hover::after {
+            width: 100%;
+        }
+    }
+}

@@ -1,13 +1,13 @@
-/* styles/_variables.scss */
-
 :root[data-theme="light"] {
   --color-bg: #ffffff;
-  --color-text: #282938;
-  --color-primary: #4F46E5;
+  --color-text: #1a1a1a;
+  --color-border: #e5e7eb;
+  --color-accent: #4f46e5;
 }
 
 :root[data-theme="dark"] {
   --color-bg: #090D1F;
   --color-text: #ffffff;
-  --color-primary: #6366F1;
+  --color-border: #1f2937;
+  --color-accent: #6366f1;
 }

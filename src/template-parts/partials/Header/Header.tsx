@@ -73,7 +73,7 @@ const Header = () => {
           ref={navRef}
           className={`header__nav ${menuActive ? "active" : ""}`}
         >
-          <Link href="/blog" className={linkClass("/")} onClick={closeMenu}>
+          <Link href="/blog" className={linkClass("/blog")} onClick={closeMenu}>
             Blog
           </Link>
           <Link href="/projects" className={linkClass("/projects")} onClick={closeMenu}>
