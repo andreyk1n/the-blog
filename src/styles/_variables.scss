@@ -1,0 +1,13 @@
+/* styles/_variables.scss */
+
+:root[data-theme="light"] {
+  --color-bg: #ffffff;
+  --color-text: #282938;
+  --color-primary: #4F46E5;
+}
+
+:root[data-theme="dark"] {
+  --color-bg: #090D1F;
+  --color-text: #ffffff;
+  --color-primary: #6366F1;
+}
