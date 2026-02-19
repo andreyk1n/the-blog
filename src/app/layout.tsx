@@ -1,20 +1,18 @@
-import type { Metadata } from "next";
+"use client";
 import "./globals.scss";
-
-export const metadata: Metadata = {
-  title: "The Blog",
-  description: "My blog",
-};
+import { ThemeProvider } from "next-themes";
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body>
-        {children}
+        <ThemeProvider attribute="data-theme" defaultTheme="light" enableSystem>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );

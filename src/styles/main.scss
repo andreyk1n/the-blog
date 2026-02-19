@@ -1,10 +1,11 @@
-@import "./variables";
+@use "./variables";
 
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition-duration: .5s;
 }
 
 @font-face {
