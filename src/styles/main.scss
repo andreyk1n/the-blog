@@ -16,7 +16,6 @@
     font-display: swap;
 }
 
-
 @font-face {
     font-family: 'Inter';
     src: url('/fonts/Inter-Medium.woff2') format('woff2');
@@ -64,4 +63,10 @@ body {
     width: 100%;
     margin: 0 auto;
     padding: 0 15px
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
