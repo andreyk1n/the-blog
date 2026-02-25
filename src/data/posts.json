@@ -5,6 +5,8 @@
     "url": "/bill-walsh-leadership-lessons",
     "image": "/post-1/",
     "categories": ["Leadership", "Management"],
+    "author": "Alec Whitten",
+    "publishedAt": "1 Jan 2023",
     "content": ""
   },
   {
@@ -13,6 +15,8 @@
     "url": "/pm-mental-models-for-better-decisions",
     "image": "/post-2/",
     "categories": ["Product", "Research", "Frameworks"],
+    "author": "Demi Wilkinson",
+    "publishedAt": "3 Jan 2023",
     "content": ""
   },
   {
@@ -21,6 +25,8 @@
     "url": "/what-is-wireframing-and-why-it-matters",
     "image": "/post-3/",
     "categories": ["Design", "Research"],
+    "author": "Candice Wu",
+    "publishedAt": "5 Jan 2023",
     "content": ""
   },
   {
@@ -29,6 +35,8 @@
     "url": "/collaboration-in-design-teams",
     "image": "/post-4/",
     "categories": ["Design", "Research"],
+    "author": "Natali Craig",
+    "publishedAt": "8 Jan 2023",
     "content": ""
   },
   {
@@ -37,6 +45,8 @@
     "url": "/top-javascript-frameworks-to-use",
     "image": "/post-5/",
     "categories": ["Software Development", "Tools", "SaaS"],
+    "author": "Drew Cano",
+    "publishedAt": "10 Jan 2023",
     "content": ""
   },
   {
@@ -45,6 +55,8 @@
     "url": "/creating-a-better-cx-community-podcast",
     "image": "/post-6/",
     "categories": ["Podcasts", "Customer Success"],
+    "author": "Orlando Diggs",
+    "publishedAt": "12 Jan 2023",
     "content": ""
   },
   {
@@ -53,6 +65,8 @@
     "url": "/design-systems-at-scale",
     "image": "/post-7/",
     "categories": ["Design", "Product"],
+    "author": "Candice Wu",
+    "publishedAt": "15 Jan 2023",
     "content": ""
   },
   {
@@ -61,6 +75,8 @@
     "url": "/user-research-methods-for-startups",
     "image": "/post-8/",
     "categories": ["Research", "Product"],
+    "author": "Demi Wilkinson",
+    "publishedAt": "18 Jan 2023",
     "content": ""
   },
   {
@@ -69,6 +85,8 @@
     "url": "/building-saas-onboarding-flow",
     "image": "/post-9/",
     "categories": ["SaaS", "Product", "UX"],
+    "author": "Alec Whitten",
+    "publishedAt": "20 Jan 2023",
     "content": ""
   },
   {
@@ -77,6 +95,8 @@
     "url": "/agile-vs-scrum-comparison",
     "image": "/post-10/",
     "categories": ["Management", "Frameworks"],
+    "author": "Natali Craig",
+    "publishedAt": "23 Jan 2023",
     "content": ""
   },
   {
@@ -85,6 +105,8 @@
     "url": "/improving-frontend-performance",
     "image": "/post-11/",
     "categories": ["Software Development", "Frontend"],
+    "author": "Drew Cano",
+    "publishedAt": "25 Jan 2023",
     "content": ""
   },
   {
@@ -93,6 +115,8 @@
     "url": "/ux-writing-best-practices",
     "image": "/post-12/",
     "categories": ["Design", "UX"],
+    "author": "Candice Wu",
+    "publishedAt": "28 Jan 2023",
     "content": ""
   },
   {
@@ -101,6 +125,8 @@
     "url": "/how-to-validate-startup-idea",
     "image": "/post-13/",
     "categories": ["Startup", "Product", "Research"],
+    "author": "Demi Wilkinson",
+    "publishedAt": "1 Feb 2023",
     "content": ""
   },
   {
@@ -109,6 +135,8 @@
     "url": "/remote-team-management-tips",
     "image": "/post-14/",
     "categories": ["Leadership", "Management"],
+    "author": "Alec Whitten",
+    "publishedAt": "3 Feb 2023",
     "content": ""
   },
   {
@@ -117,6 +145,8 @@
     "url": "/web-accessibility-introduction",
     "image": "/post-15/",
     "categories": ["Design", "Frontend"],
+    "author": "Natali Craig",
+    "publishedAt": "6 Feb 2023",
     "content": ""
   },
   {
@@ -125,6 +155,8 @@
     "url": "/scaling-react-applications",
     "image": "/post-16/",
     "categories": ["Software Development", "Frontend"],
+    "author": "Drew Cano",
+    "publishedAt": "9 Feb 2023",
     "content": ""
   },
   {
@@ -133,6 +165,8 @@
     "url": "/product-metrics-every-pm-should-track",
     "image": "/post-17/",
     "categories": ["Product", "Analytics"],
+    "author": "Orlando Diggs",
+    "publishedAt": "12 Feb 2023",
     "content": ""
   },
   {
@@ -141,6 +175,8 @@
     "url": "/prototyping-tools-comparison",
     "image": "/post-18/",
     "categories": ["Design", "Tools"],
+    "author": "Candice Wu",
+    "publishedAt": "15 Feb 2023",
     "content": ""
   },
   {
@@ -149,6 +185,8 @@
     "url": "/building-personal-brand-in-tech",
     "image": "/post-19/",
     "categories": ["Career", "Leadership"],
+    "author": "Alec Whitten",
+    "publishedAt": "18 Feb 2023",
     "content": ""
   },
   {
@@ -157,6 +195,8 @@
     "url": "/api-design-best-practices",
     "image": "/post-20/",
     "categories": ["Software Development", "Backend"],
+    "author": "Drew Cano",
+    "publishedAt": "20 Feb 2023",
     "content": ""
   }
 ]
