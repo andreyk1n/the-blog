@@ -1,6 +1,8 @@
 import Header from "@/template-parts/partials/Header/Header";
 import Hero from "@/template-parts/components/Hero/Hero";
+import Related from "@/template-parts/components/Related/Related";
 import Footer from "@/template-parts/partials/Footer/Footer";
+import posts from "@/data/posts.json";
 import "@/template-parts/partials/Header/Header.scss";
 
 export default function RootLayout({
@@ -26,6 +28,7 @@ export default function RootLayout({
             />
           </svg>
         </Hero>
+        <Related posts={posts} />
         <Footer />
       </body>
     </html>
