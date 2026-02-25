@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Bill Walsh leadership lessons",
+    "url": "/bill-walsh-leadership-lessons",
+    "image": "/post-1/",
+    "categories": ["Leadership", "Management"],
+    "content": ""
+  },
+  {
+    "id": 2,
+    "title": "PM mental models",
+    "url": "/pm-mental-models-for-better-decisions",
+    "image": "/post-2/",
+    "categories": ["Product", "Research", "Frameworks"],
+    "content": ""
+  },
+  {
+    "id": 3,
+    "title": "What is Wireframing?",
+    "url": "/what-is-wireframing-and-why-it-matters",
+    "image": "/post-3/",
+    "categories": ["Design", "Research"],
+    "content": ""
+  },
+  {
+    "id": 4,
+    "title": "How collaboration makes us better designers",
+    "url": "/collaboration-in-design-teams",
+    "image": "/post-4/",
+    "categories": ["Design", "Research"],
+    "content": ""
+  },
+  {
+    "id": 5,
+    "title": "Our top 10 JavaScript frameworks to use",
+    "url": "/top-javascript-frameworks-to-use",
+    "image": "/post-5/",
+    "categories": ["Software Development", "Tools", "SaaS"],
+    "content": ""
+  },
+  {
+    "id": 6,
+    "title": "Podcast: Creating a better CX Community",
+    "url": "/creating-a-better-cx-community-podcast",
+    "image": "/post-6/",
+    "categories": ["Podcasts", "Customer Success"],
+    "content": ""
+  },
+  {
+    "id": 7,
+    "title": "Design systems at scale",
+    "url": "/design-systems-at-scale",
+    "image": "/post-7/",
+    "categories": ["Design", "Product"],
+    "content": ""
+  },
+  {
+    "id": 8,
+    "title": "User research methods for startups",
+    "url": "/user-research-methods-for-startups",
+    "image": "/post-8/",
+    "categories": ["Research", "Product"],
+    "content": ""
+  },
+  {
+    "id": 9,
+    "title": "Building a SaaS onboarding flow",
+    "url": "/building-saas-onboarding-flow",
+    "image": "/post-9/",
+    "categories": ["SaaS", "Product", "UX"],
+    "content": ""
+  },
+  {
+    "id": 10,
+    "title": "Agile vs Scrum: what to choose?",
+    "url": "/agile-vs-scrum-comparison",
+    "image": "/post-10/",
+    "categories": ["Management", "Frameworks"],
+    "content": ""
+  },
+  {
+    "id": 11,
+    "title": "Improving frontend performance in 2026",
+    "url": "/improving-frontend-performance",
+    "image": "/post-11/",
+    "categories": ["Software Development", "Frontend"],
+    "content": ""
+  },
+  {
+    "id": 12,
+    "title": "UX writing best practices",
+    "url": "/ux-writing-best-practices",
+    "image": "/post-12/",
+    "categories": ["Design", "UX"],
+    "content": ""
+  },
+  {
+    "id": 13,
+    "title": "How to validate a startup idea",
+    "url": "/how-to-validate-startup-idea",
+    "image": "/post-13/",
+    "categories": ["Startup", "Product", "Research"],
+    "content": ""
+  },
+  {
+    "id": 14,
+    "title": "Remote team management tips",
+    "url": "/remote-team-management-tips",
+    "image": "/post-14/",
+    "categories": ["Leadership", "Management"],
+    "content": ""
+  },
+  {
+    "id": 15,
+    "title": "Introduction to accessibility in web design",
+    "url": "/web-accessibility-introduction",
+    "image": "/post-15/",
+    "categories": ["Design", "Frontend"],
+    "content": ""
+  },
+  {
+    "id": 16,
+    "title": "Scaling React applications",
+    "url": "/scaling-react-applications",
+    "image": "/post-16/",
+    "categories": ["Software Development", "Frontend"],
+    "content": ""
+  },
+  {
+    "id": 17,
+    "title": "Metrics every product manager should track",
+    "url": "/product-metrics-every-pm-should-track",
+    "image": "/post-17/",
+    "categories": ["Product", "Analytics"],
+    "content": ""
+  },
+  {
+    "id": 18,
+    "title": "Prototyping tools comparison",
+    "url": "/prototyping-tools-comparison",
+    "image": "/post-18/",
+    "categories": ["Design", "Tools"],
+    "content": ""
+  },
+  {
+    "id": 19,
+    "title": "Building a personal brand in tech",
+    "url": "/building-personal-brand-in-tech",
+    "image": "/post-19/",
+    "categories": ["Career", "Leadership"],
+    "content": ""
+  },
+  {
+    "id": 20,
+    "title": "API design best practices",
+    "url": "/api-design-best-practices",
+    "image": "/post-20/",
+    "categories": ["Software Development", "Backend"],
+    "content": ""
+  }
+]
