@@ -35,8 +35,11 @@ export default function Related({ posts, limit = 4 }: RelatedProps) {
               key={post.id}
               className={`related__card related__card--${index + 1}`}
             >
-              <Link href={post.url} className="related__image">
-                <img src={post.image} alt={post.title} />
+              <Link href={post.url}>
+                <img
+                  src={`/images/posts/${post.image}.jpg`}
+                  alt={post.title}
+                />
               </Link>
 
               <div className="related__content">
