@@ -1,0 +1,131 @@
+.posts {
+    padding: 80px 0;
+
+    @media (max-width: 992px) {
+        padding: 40px 0;
+    }
+
+    &__container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    &__title {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 40px;
+    }
+
+    &__grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 40px;
+
+        @media (max-width: 1050px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        @media (max-width: 768px) {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    &__card {
+        display: flex;
+        flex-direction: column;
+
+        &-image {
+            display: block;
+            overflow: hidden;
+
+            img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                transition: 0.3s;
+
+                @media (max-width: 1100px) {
+                    height: 200px;
+                }
+
+                @media (max-width: 768px) {
+                    height: auto;
+                }
+            }
+
+            &:hover img {
+                transform: scale(1.05);
+            }
+        }
+    }
+
+    &__meta {
+        margin-top: 16px;
+        font-size: 14px;
+        color: #667085;
+    }
+
+    &__dot {
+        margin: 0 6px;
+    }
+
+    &__card-title {
+        font-size: 20px;
+        margin: 8px 0 12px;
+
+        a {
+            text-decoration: none;
+            color: var(--color-text);
+        }
+    }
+
+    &__excerpt {
+        color: #667085;
+        margin-bottom: 16px;
+    }
+
+    &__categories {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    &__category {
+        padding: 4px 10px;
+        border-radius: 20px;
+        font-size: 12px;
+        background: #f2f4f7;
+        color: #090D1F;
+    }
+
+    &__pagination {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    &__page,
+    &__nav {
+        padding: 8px 14px;
+        border: 1px solid #ddd;
+        background: var(--color-bg);
+        color: var(--color-text);
+        cursor: pointer;
+        transition-duration: .5s;
+
+        &:disabled {
+            opacity: .5;
+        }
+
+        &:hover {
+            opacity: .5;
+        }
+    }
+
+    .is-active {
+        background: var(--color-text);
+        color: var(--color-bg);
+    }
+}
