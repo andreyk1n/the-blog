@@ -1,0 +1,36 @@
+.article {
+  &__title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: var(--color-text)
+  }
+
+  &__subtitle {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    color: var(--color-text)
+  }
+
+  &__text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 16px;
+    color: var(--color-gray);
+  }
+
+  &__list {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 16px;
+
+    li {
+      font-size: 16px;
+      line-height: 1.6;
+      margin-bottom: 8px;
+      color: var(--color-gray);
+    }
+  }
+}

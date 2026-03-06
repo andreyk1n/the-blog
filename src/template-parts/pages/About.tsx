@@ -1,6 +1,7 @@
 import Header from "@/template-parts/partials/Header/Header";
 import Hero from "@/template-parts/components/Hero/Hero";
 import CustomImage from "@/template-parts/components/CustomImage/CustomImage";
+import Text from "@/template-parts/components/Text/Text";
 import Footer from "@/template-parts/partials/Footer/Footer";
 import "@/template-parts/partials/Header/Header.scss";
 const image = "/images/image/Image.jpg";
@@ -24,6 +25,44 @@ export default function RootLayout({
                     alt="About page image"
                     className="post__image"
                 />
+                <div className="article">
+                    <div className="article__container">
+                        <Text as="h2" className="article__title">About Me</Text>
+
+                        <Text className="article__text">
+                            As a passionate and experienced UI designer, I am dedicated to creating intuitive and engaging user experiences
+                            that meet the needs of my clients and their users. I have a strong understanding of design principles and a
+                            proficiency in design tools, and I am comfortable working with cross-functional teams to bring projects to
+                            fruition. I am confident in my ability to create designs that are both visually appealing and functional, and
+                            I am always looking for new challenges and opportunities to grow as a designer.
+                        </Text>
+
+                        <Text as="h3" className="article__subtitle">Skills:</Text>
+                        <ul className="article__list">
+                            <Text as="li">Extensive experience in UI design, with a strong portfolio of completed projects</Text>
+                            <Text as="li">Proficiency in design tools such as Adobe Creative Suite and Sketch</Text>
+                            <Text as="li">Excellent visual design skills, with a strong understanding of layout, color theory, and typography</Text>
+                            <Text as="li">Ability to create wireframes and prototypes to communicate design concepts</Text>
+                            <Text as="li">Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams</Text>
+                            <Text as="li">Experience conducting user research and gathering insights to inform design decisions</Text>
+                            <Text as="li">Proficiency in HTML, CSS, and JavaScript</Text>
+                        </ul>
+
+                        <Text as="h3" className="article__subtitle">Experience:</Text>
+                        <ul className="article__list">
+                            <Text as="li">5 years of experience as a UI designer, working on a variety of projects for clients in the tech and retail industries</Text>
+                            <Text as="li">Led the design of a successful e-commerce website, resulting in a 25% increase in online sales</Text>
+                            <Text as="li">Created wireframes and prototypes for a mobile banking app, leading to a 20% increase in app usage</Text>
+                            <Text as="li">Conducted user research and usability testing to inform the redesign of a healthcare provider's website, resulting in a 15% increase in website traffic</Text>
+                        </ul>
+
+                        <Text as="h3" className="article__subtitle">Education:</Text>
+                        <ul className="article__list">
+                            <Text as="li">Bachelor's degree in Graphic Design</Text>
+                            <Text as="li">Certified User Experience Designer (CUED)</Text>
+                        </ul>
+                    </div>
+                </div>
                 <Footer />
             </body>
         </html>
