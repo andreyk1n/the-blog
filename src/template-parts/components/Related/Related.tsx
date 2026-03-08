@@ -1,10 +1,12 @@
+"use client";
+
 import Link from "next/link";
 import "./Related.scss";
 
 type Post = {
   id: number;
   title: string;
-  url: string;
+  slug: string; 
   image: any;
   categories: string[];
   content: string;
@@ -18,7 +20,6 @@ type RelatedProps = {
 };
 
 export default function Related({ posts, limit = 4 }: RelatedProps) {
-
   const stripHtml = (html: string) => {
     return html.replace(/<[^>]+>/g, "");
   };
@@ -40,7 +41,7 @@ export default function Related({ posts, limit = 4 }: RelatedProps) {
               key={post.id}
               className={`related__card related__card--${index + 1}`}
             >
-              <Link className="related__image" href={post.url}>
+              <Link className="related__image" href={`/blog/${post.slug}`}>
                 <img 
                   src={`/images/posts/${post.image}.jpg`}
                   alt={post.title}
@@ -55,7 +56,7 @@ export default function Related({ posts, limit = 4 }: RelatedProps) {
                 </div>
 
                 <h3 className="related__card-title">
-                  <Link href={post.url}>{post.title}</Link>
+                  <Link href={`/blog/${post.slug}`}>{post.title}</Link>
                 </h3>
 
                 <p className="related__excerpt">
@@ -63,8 +64,8 @@ export default function Related({ posts, limit = 4 }: RelatedProps) {
                 </p>
 
                 <div className="related__categories">
-                  {post.categories.map((cat, index) => (
-                    <span key={index} className="related__category">
+                  {post.categories.map((cat, idx) => (
+                    <span key={idx} className="related__category">
                       {cat}
                     </span>
                   ))}
