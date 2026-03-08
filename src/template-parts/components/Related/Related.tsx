@@ -18,6 +18,11 @@ type RelatedProps = {
 };
 
 export default function Related({ posts, limit = 4 }: RelatedProps) {
+
+  const stripHtml = (html: string) => {
+    return html.replace(/<[^>]+>/g, "");
+  };
+
   const truncate = (text: string, maxLength: number) => {
     if (!text) return "";
     if (text.length <= maxLength) return text;
@@ -54,7 +59,7 @@ export default function Related({ posts, limit = 4 }: RelatedProps) {
                 </h3>
 
                 <p className="related__excerpt">
-                  {truncate(post.content, 140)}
+                  {truncate(stripHtml(post.content), 140)}
                 </p>
 
                 <div className="related__categories">

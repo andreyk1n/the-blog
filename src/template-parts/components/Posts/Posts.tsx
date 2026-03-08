@@ -39,6 +39,10 @@ export default function Posts({ posts, perPage = 6 }: PostsProps) {
         currentPage * perPage
     );
 
+    const stripHtml = (html: string) => {
+        return html.replace(/<[^>]+>/g, "");
+    };
+
     const truncate = (text: string, maxLength: number) => {
         if (!text) return "";
         if (text.length <= maxLength) return text;
@@ -59,17 +63,21 @@ export default function Posts({ posts, perPage = 6 }: PostsProps) {
                                     alt={post.title}
                                 />
                             </Link>
+
                             <div className="posts__meta">
                                 <span>{post.author}</span>
                                 <span className="posts__dot">•</span>
                                 <span>{post.publishedAt}</span>
                             </div>
+
                             <h3 className="posts__card-title">
                                 <Link href={post.url}>{post.title}</Link>
                             </h3>
+
                             <p className="posts__excerpt">
-                                {truncate(post.content, 120)}
+                                {truncate(stripHtml(post.content), 120)}
                             </p>
+
                             <div className="posts__categories">
                                 {post.categories.map((cat, index) => (
                                     <span key={index} className="posts__category">
@@ -80,6 +88,7 @@ export default function Posts({ posts, perPage = 6 }: PostsProps) {
                         </article>
                     ))}
                 </div>
+
                 <div className="posts__pagination">
                     <button
                         disabled={currentPage === 1}
@@ -88,18 +97,21 @@ export default function Posts({ posts, perPage = 6 }: PostsProps) {
                     >
                         Previous
                     </button>
+
                     {Array.from({ length: totalPages }, (_, i) => i + 1).map(
                         (page) => (
                             <button
                                 key={page}
                                 onClick={() => setCurrentPage(page)}
-                                className={`posts__page ${currentPage === page ? "is-active" : ""
-                                    }`}
+                                className={`posts__page ${
+                                    currentPage === page ? "is-active" : ""
+                                }`}
                             >
                                 {page}
                             </button>
                         )
                     )}
+
                     <button
                         disabled={currentPage === totalPages}
                         onClick={() => setCurrentPage((p) => p + 1)}
