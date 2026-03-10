@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import ThemeToggle from "../../ui/ThemeToggle/ThemeToggle";
+import './Header.scss';
 
 const MOBILE_BREAKPOINT = 992;
 

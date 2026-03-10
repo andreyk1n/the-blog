@@ -4,17 +4,24 @@
     "title": "Bill Walsh leadership lessons",
     "slug": "bill-walsh-leadership-lessons",
     "image": "post-1",
-    "categories": ["Leadership", "Management"],
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
     "author": "Alec Whitten",
     "publishedAt": "1 Jan 2023",
-    "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
+    "content": "<p>Bill Walsh is one of the most influential leaders in sports history. When he took over as head coach and general manager of the San Francisco 49ers in 1979, the team was one of the worst in the NFL, fresh off a 2-14 season. In just three years, Walsh turned the franchise into champions, winning Super Bowl XVI in 1982. By the time he retired in 1989, the 49ers had claimed three Super Bowl titles under his leadership and laid the foundation for two more. He also revolutionized the game with his innovative West Coast offense. Yet Walsh’s greatest impact came from his philosophy of leadership, beautifully captured in his book <em>The Score Takes Care of Itself: My Philosophy of Leadership</em>. His principles apply equally to business, education, or any high-performance environment.</p><p>At the core of Walsh’s approach is a powerful mantra: “The score takes care of itself.” He taught that leaders should stop obsessing over outcomes—wins, profits, or rankings—and instead focus relentlessly on the process they can control: preparation, execution, skill development, and daily improvement. “Concentrate on what will produce results rather than on the results, the process rather than the prize,” he wrote. By raising the organization’s overall level of proficiency higher than any competitor’s, victory becomes the natural byproduct.</p><p>The foundation of this philosophy was Walsh’s famous Standard of Performance—a clear set of behavioral and attitudinal expectations that applied to every single person in the organization, from star players to receptionists. From day one, he demanded:</p><ul><li>A ferocious and intelligently applied work ethic directed at continual improvement</li><li>Respect for every individual and the work they do</li><li>Deep commitment to learning and teaching</li><li>Self-control, especially under pressure</li><li>Loyalty, positive language, and a positive attitude</li><li>Pride in effort separate from results</li><li>Placing the team’s welfare ahead of personal interests</li><li>Abnormally high concentration and focus</li></ul><p>These standards created a self-sustaining culture of excellence. Walsh did not chase immediate championships; he built a system where everyone understood exactly how they contributed to success.</p><p>Walsh was also a master of attention to detail. He believed greatness is built “small step by small step through painstaking dedication to pertinent details.” Practices were scripted down to the minute, every scenario anticipated, and fundamentals drilled endlessly. Superstars like Joe Montana and Jerry Rice embodied this: Rice arrived at 6 a.m. to perfect routes, while Montana repeated basic throws until they were automatic. This meticulous preparation produced calm, confident performance even in the biggest moments—most famously the 92-yard game-winning drive in Super Bowl XXIII.</p><p>Another hallmark of Walsh’s leadership was his view of the leader as teacher and mentor. He invested heavily in developing people, helping them reach their full potential. Praise was one of his favorite tools: “Few things offer greater return on less investment than praise.” He created an environment of growth, respect, and accountability that turned talented individuals into a cohesive, resilient team.</p><p>Finally, Walsh taught resilience. Setbacks are inevitable, he said, but winners “stand up and fight again.” After early defeats, he refused to dwell on failure or blame others. Instead, he focused on what could be improved and moved forward with poise.</p><p>Bill Walsh’s lessons remain remarkably relevant today. Whether leading a startup, a corporate team, or a nonprofit, success comes from defining high standards, mastering the controllable process, sweating the small stuff, and developing people. When you do these things consistently, as Walsh proved with the 49ers, the score truly does take care of itself—and lasting excellence follows.</p>"
   },
   {
     "id": 2,
     "title": "PM mental models",
     "slug": "pm-mental-models-for-better-decisions",
     "image": "post-2",
-    "categories": ["Product", "Research", "Frameworks"],
+    "categories": [
+      "Product",
+      "Research",
+      "Frameworks"
+    ],
     "author": "Demi Wilkinson",
     "publishedAt": "3 Jan 2023",
     "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
@@ -24,7 +31,10 @@
     "title": "What is Wireframing?",
     "slug": "what-is-wireframing-and-why-it-matters",
     "image": "post-3",
-    "categories": ["Design", "Research"],
+    "categories": [
+      "Design",
+      "Research"
+    ],
     "author": "Candice Wu",
     "publishedAt": "5 Jan 2023",
     "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
@@ -34,7 +44,10 @@
     "title": "How collaboration makes us better designers",
     "slug": "collaboration-in-design-teams",
     "image": "post-4",
-    "categories": ["Design", "Research"],
+    "categories": [
+      "Design",
+      "Research"
+    ],
     "author": "Natali Craig",
     "publishedAt": "8 Jan 2023",
     "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
@@ -44,7 +57,11 @@
     "title": "Our top 10 JavaScript frameworks to use",
     "slug": "top-javascript-frameworks-to-use",
     "image": "post-5",
-    "categories": ["Software Development", "Tools", "SaaS"],
+    "categories": [
+      "Software Development",
+      "Tools",
+      "SaaS"
+    ],
     "author": "Drew Cano",
     "publishedAt": "10 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -54,7 +71,10 @@
     "title": "Podcast: Creating a better CX Community",
     "slug": "creating-a-better-cx-community-podcast",
     "image": "post-6",
-    "categories": ["Podcasts", "Customer Success"],
+    "categories": [
+      "Podcasts",
+      "Customer Success"
+    ],
     "author": "Orlando Diggs",
     "publishedAt": "12 Jan 2023",
     "content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>"
@@ -64,7 +84,10 @@
     "title": "Design systems at scale",
     "slug": "design-systems-at-scale",
     "image": "post-7",
-    "categories": ["Design", "Product"],
+    "categories": [
+      "Design",
+      "Product"
+    ],
     "author": "Candice Wu",
     "publishedAt": "15 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -74,7 +97,10 @@
     "title": "User research methods for startups",
     "slug": "user-research-methods-for-startups",
     "image": "post-8",
-    "categories": ["Research", "Product"],
+    "categories": [
+      "Research",
+      "Product"
+    ],
     "author": "Demi Wilkinson",
     "publishedAt": "18 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -84,7 +110,11 @@
     "title": "Building a SaaS onboarding flow",
     "slug": "/building-saas-onboarding-flow",
     "image": "post-9",
-    "categories": ["SaaS", "Product", "UX"],
+    "categories": [
+      "SaaS",
+      "Product",
+      "UX"
+    ],
     "author": "Alec Whitten",
     "publishedAt": "20 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -94,7 +124,10 @@
     "title": "Agile vs Scrum: what to choose?",
     "slug": "agile-vs-scrum-comparison",
     "image": "post-10",
-    "categories": ["Management", "Frameworks"],
+    "categories": [
+      "Management",
+      "Frameworks"
+    ],
     "author": "Natali Craig",
     "publishedAt": "23 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -104,7 +137,10 @@
     "title": "Improving frontend performance in 2026",
     "slug": "/improving-frontend-performance",
     "image": "post-11",
-    "categories": ["Software Development", "Frontend"],
+    "categories": [
+      "Software Development",
+      "Frontend"
+    ],
     "author": "Drew Cano",
     "publishedAt": "25 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -114,7 +150,10 @@
     "title": "UX writing best practices",
     "slug": "ux-writing-best-practices",
     "image": "post-12",
-    "categories": ["Design", "UX"],
+    "categories": [
+      "Design",
+      "UX"
+    ],
     "author": "Candice Wu",
     "publishedAt": "28 Jan 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -124,7 +163,11 @@
     "title": "How to validate a startup idea",
     "slug": "how-to-validate-startup-idea",
     "image": "post-13",
-    "categories": ["Startup", "Product", "Research"],
+    "categories": [
+      "Startup",
+      "Product",
+      "Research"
+    ],
     "author": "Demi Wilkinson",
     "publishedAt": "1 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -134,7 +177,10 @@
     "title": "Remote team management tips",
     "slug": "remote-team-management-tips",
     "image": "post-14",
-    "categories": ["Leadership", "Management"],
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
     "author": "Alec Whitten",
     "publishedAt": "3 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -144,7 +190,10 @@
     "title": "Introduction to accessibility in web design",
     "slug": "web-accessibility-introduction",
     "image": "post-15",
-    "categories": ["Design", "Frontend"],
+    "categories": [
+      "Design",
+      "Frontend"
+    ],
     "author": "Natali Craig",
     "publishedAt": "6 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -154,7 +203,10 @@
     "title": "Scaling React applications",
     "slug": "scaling-react-applications",
     "image": "post-16",
-    "categories": ["Software Development", "Frontend"],
+    "categories": [
+      "Software Development",
+      "Frontend"
+    ],
     "author": "Drew Cano",
     "publishedAt": "9 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -164,7 +216,10 @@
     "title": "Metrics every product manager should track",
     "slug": "product-metrics-every-pm-should-track",
     "image": "post-17",
-    "categories": ["Product", "Analytics"],
+    "categories": [
+      "Product",
+      "Analytics"
+    ],
     "author": "Orlando Diggs",
     "publishedAt": "12 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -174,7 +229,10 @@
     "title": "Prototyping tools comparison",
     "slug": "prototyping-tools-comparison",
     "image": "post-18",
-    "categories": ["Design", "Tools"],
+    "categories": [
+      "Design",
+      "Tools"
+    ],
     "author": "Candice Wu",
     "publishedAt": "15 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -184,7 +242,10 @@
     "title": "Building a personal brand in tech",
     "slug": "building-personal-brand-in-tech",
     "image": "post-19",
-    "categories": ["Career", "Leadership"],
+    "categories": [
+      "Career",
+      "Leadership"
+    ],
     "author": "Alec Whitten",
     "publishedAt": "18 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
@@ -194,7 +255,10 @@
     "title": "API design best practices",
     "slug": "api-design-best-practices",
     "image": "post-20",
-    "categories": ["Software Development", "Backend"],
+    "categories": [
+      "Software Development",
+      "Backend"
+    ],
     "author": "Drew Cano",
     "publishedAt": "20 Feb 2023",
     "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
